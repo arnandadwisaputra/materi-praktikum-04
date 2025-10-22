@@ -1,5 +1,6 @@
 #include <iostream>
 #include <cstdlib>
+#include <ctime>
 
 using namespace std;
 
@@ -16,5 +17,6 @@ int main() {
 		cout << "Sorry, The correct number was " << diceRoll << "." << endl;
 	}
 
-	
+	return 0;
+
 }
